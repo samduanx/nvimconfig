@@ -1,0 +1,8 @@
+{
+  "languageserver":{
+    "kotlin":{
+      "command":"C:/Users/exp99/AppData/Local/Programs/KotlinLanguageServer/server/bin/kotlin-language-server.bat",
+      "filetypes":["kotlin"]
+    }
+  }
+}
